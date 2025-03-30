@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sample_SelectDropdown</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4c22a47a-9ec6-4419-b95c-096a6a19397d</testCaseGuid>
+</TestCaseEntity>

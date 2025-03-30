@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TicketNumber_ShortDescription</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3adf5adf-722e-408d-986e-902ef2f3d791</testCaseGuid>
+</TestCaseEntity>
